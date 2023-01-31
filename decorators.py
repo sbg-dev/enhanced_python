@@ -34,4 +34,4 @@ def display_info(name, age):
     time.sleep(1)
     print('display_info ran with arguments ({}, {})'.format(name, age))
 
-display_info('Mara', 27)
+display_info('Mara', 29)
